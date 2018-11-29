@@ -1,0 +1,3 @@
+﻿  taask12.cpp
+c:\users\олег\desktop\oop\taask12\taask12\taask12.cpp(218): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  taask12.vcxproj -> C:\Users\Олег\Desktop\OOP\taask12\Debug\taask12.exe
