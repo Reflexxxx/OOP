@@ -1,0 +1,45 @@
+﻿  Source.cpp
+c:\users\олег\desktop\oop\lab_2\lab_2\source.cpp(7): error C2059: синтаксическая ошибка: {
+c:\users\олег\desktop\oop\lab_2\lab_2\source.cpp(7): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+c:\users\олег\desktop\oop\lab_2\lab_2\source.cpp(8): error C2065: mov: необъявленный идентификатор
+c:\users\олег\desktop\oop\lab_2\lab_2\source.cpp(8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ax"
+c:\users\олег\desktop\oop\lab_2\lab_2\source.cpp(8): error C2065: ax: необъявленный идентификатор
+c:\users\олег\desktop\oop\lab_2\lab_2\source.cpp(9): error C3260: "идентификатор": пропускаются непредвиденные токены перед телом лямбда-функции
+c:\users\олег\desktop\oop\lab_2\lab_2\source.cpp(28): error C2065: b: необъявленный идентификатор
+c:\users\олег\desktop\oop\lab_2\lab_2\source.cpp(29): error C2065: a: необъявленный идентификатор
+c:\users\олег\desktop\oop\lab_2\lab_2\source.cpp(30): error C2065: b: необъявленный идентификатор
+c:\users\олег\desktop\oop\lab_2\lab_2\source.cpp(39): error C2065: x: необъявленный идентификатор
+c:\users\олег\desktop\oop\lab_2\lab_2\source.cpp(39): error C2065: y: необъявленный идентификатор
+c:\users\олег\desktop\oop\lab_2\lab_2\source.cpp(39): error C2065: color: необъявленный идентификатор
+c:\users\олег\desktop\oop\lab_2\lab_2\source.cpp(39): error C2660: putpixel: функция не принимает 2 аргументов
+c:\users\олег\desktop\oop\lab_2\lab_2\source.cpp(40): error C2065: x: необъявленный идентификатор
+c:\users\олег\desktop\oop\lab_2\lab_2\source.cpp(40): error C2065: y: необъявленный идентификатор
+c:\users\олег\desktop\oop\lab_2\lab_2\source.cpp(40): error C2065: color: необъявленный идентификатор
+c:\users\олег\desktop\oop\lab_2\lab_2\source.cpp(40): error C2660: putpixel: функция не принимает 2 аргументов
+c:\users\олег\desktop\oop\lab_2\lab_2\source.cpp(41): error C2065: x: необъявленный идентификатор
+c:\users\олег\desktop\oop\lab_2\lab_2\source.cpp(41): error C2065: y: необъявленный идентификатор
+c:\users\олег\desktop\oop\lab_2\lab_2\source.cpp(41): error C2065: color: необъявленный идентификатор
+c:\users\олег\desktop\oop\lab_2\lab_2\source.cpp(41): error C2660: putpixel: функция не принимает 2 аргументов
+c:\users\олег\desktop\oop\lab_2\lab_2\source.cpp(42): error C2065: x: необъявленный идентификатор
+c:\users\олег\desktop\oop\lab_2\lab_2\source.cpp(42): error C2065: y: необъявленный идентификатор
+c:\users\олег\desktop\oop\lab_2\lab_2\source.cpp(42): error C2065: color: необъявленный идентификатор
+c:\users\олег\desktop\oop\lab_2\lab_2\source.cpp(42): error C2660: putpixel: функция не принимает 2 аргументов
+c:\users\олег\desktop\oop\lab_2\lab_2\source.cpp(54): error C2065: x: необъявленный идентификатор
+c:\users\олег\desktop\oop\lab_2\lab_2\source.cpp(54): error C2065: y: необъявленный идентификатор
+c:\users\олег\desktop\oop\lab_2\lab_2\source.cpp(54): error C2065: color: необъявленный идентификатор
+c:\users\олег\desktop\oop\lab_2\lab_2\source.cpp(54): error C2660: putpixel: функция не принимает 2 аргументов
+c:\users\олег\desktop\oop\lab_2\lab_2\source.cpp(55): error C2065: x: необъявленный идентификатор
+c:\users\олег\desktop\oop\lab_2\lab_2\source.cpp(55): error C2065: y: необъявленный идентификатор
+c:\users\олег\desktop\oop\lab_2\lab_2\source.cpp(55): error C2065: color: необъявленный идентификатор
+c:\users\олег\desktop\oop\lab_2\lab_2\source.cpp(55): error C2660: putpixel: функция не принимает 2 аргументов
+c:\users\олег\desktop\oop\lab_2\lab_2\source.cpp(56): error C2065: x: необъявленный идентификатор
+c:\users\олег\desktop\oop\lab_2\lab_2\source.cpp(56): error C2065: y: необъявленный идентификатор
+c:\users\олег\desktop\oop\lab_2\lab_2\source.cpp(56): error C2065: color: необъявленный идентификатор
+c:\users\олег\desktop\oop\lab_2\lab_2\source.cpp(56): error C2660: putpixel: функция не принимает 2 аргументов
+c:\users\олег\desktop\oop\lab_2\lab_2\source.cpp(57): error C2065: x: необъявленный идентификатор
+c:\users\олег\desktop\oop\lab_2\lab_2\source.cpp(57): error C2065: y: необъявленный идентификатор
+c:\users\олег\desktop\oop\lab_2\lab_2\source.cpp(57): error C2065: color: необъявленный идентификатор
+c:\users\олег\desktop\oop\lab_2\lab_2\source.cpp(57): error C2660: putpixel: функция не принимает 2 аргументов
+c:\users\олег\desktop\oop\lab_2\lab_2\source.cpp(68): error C2144: синтаксическая ошибка: перед "void" требуется ";"
+c:\users\олег\desktop\oop\lab_2\lab_2\source.cpp(69): error C2601: main: недопустимые локальные определения функций
+c:\users\олег\desktop\oop\lab_2\lab_2\source.cpp(84): fatal error C1004: непредвиденное обнаружение конца файла
